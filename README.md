@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parth</h1>
+<h1 align="center">Hi 👋, I'm Parth Katrodiya</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth7913" alt="parth7913" /></a> </p>
